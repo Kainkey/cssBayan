@@ -65,7 +65,7 @@ h1 {
     transition: 1s;
     height: 450px;
     background-color: black;
-    cursor: pointer;
+    cursor: url("https://cdn.custom-cursor.com/db/16356/32/starter-radar-cursor.png");
 }
 
 label {
